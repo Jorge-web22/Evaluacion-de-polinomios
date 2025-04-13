@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1744489122 source:c:\users\alan\onedrive\documentos\matesdisc\evaluacion de polinomios\polinomios.cpp
+	"polinomio.hpp"
+	<cmath>
+
+1744489195 c:\users\alan\onedrive\documentos\matesdisc\evaluacion de polinomios\polinomio.hpp
+	<vector>
+
+1744489138 source:c:\users\alan\onedrive\documentos\matesdisc\evaluacion de polinomios\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<fstream>
+	<vector>
+
